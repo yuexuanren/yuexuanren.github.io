@@ -1,5 +1,5 @@
 ---
-title:  
+title: "Teaching"
 layout: archive
 permalink: /teaching/
 ---
