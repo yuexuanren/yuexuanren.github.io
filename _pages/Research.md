@@ -1,6 +1,6 @@
 ---
-permalink: /non-menu-page/
-title: "Page not in menu"
+permalink: /research/
+title: 
 author_profile: true
 redirect_from: 
   - "/nmp/"
@@ -9,8 +9,10 @@ redirect_from:
 
 This is a page not in the menu. You can use markdown in this page.
 
-Heading 1
+Publications
 ======
+1. Optimal Inference for Spot Regressions (with Tim Bollerslev and Jia Li)
 
+2. 
 Heading 2
 ======
