@@ -16,10 +16,22 @@ author_profile: true
 
 * Econometric Theory, Financial Econometrics
 
+### Publications and Working Papers
+
+* [See Research](https://yuexuanren.github.io/research/)
+
   
 ### Conference and Seminar Presentations
 
 * 2023: SH3 Conference on Econometrics
+
+### Honors and Scholarships
+
+* Presidential Doctoral Fellowship, 2023
+* PhD Full Scholarship, Singapore Management University, 2020 - 2024
+* The 1st Class Academic Scholarship, Renmin University, 2017 - 2020
+
+
   
  
   
