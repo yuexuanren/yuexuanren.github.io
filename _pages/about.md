@@ -11,4 +11,7 @@ I am a final-year Ph.D. Candidate in Economics at Singapore Management Universit
 
 I am on the 2024/2025 job market and will be available for interviews.
  
-  
+
+### Contact
+
+* **Email**: <span>`yuexuan.ren.2020[`</span><span style="color:red">`at`</span><span>`]phdecons.smu.edu.sg`</span>
