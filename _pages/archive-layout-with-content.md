@@ -1,5 +1,5 @@
 ---
-title: "Archive Layout with Content"
+title: "Research"
 layout: archive
 permalink: /research/
 ---
@@ -56,9 +56,10 @@ Startup
 Do It Live
 :   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
 
-## Unordered Lists (Nested)
+## Publications
 
-  * List item one 
+  * Optimal Inference for Spot Regressions (with Tim Bollerslev and Jia Li) [Link](https://www.aeaweb.org/articles?id=10.1257/aer.20221338)
+    _**American Economics Review**_, 114(3), 2024, 678-708.
       * List item one 
           * List item one
           * List item two
