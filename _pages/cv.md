@@ -18,7 +18,7 @@ author_profile: true
 
 ### Committee
 
-* [Jia Li](https://sites.google.com/view/jiali/home) (Chair), [Peter C. B. Phillips](http://korora.econ.yale.edu/phillips/), [Jun Yu](https://fba.um.edu.mo/faculty/junyu/)
+* [Jia Li](https://sites.google.com/view/jiali/home) (Chair), [Peter C. B. Phillips](http://korora.econ.yale.edu/phillips/), [Jun Yu](https://fba.um.edu.mo/faculty/junyu/), [Yichong Zhang](https://sites.google.com/site/yichongzhang86/home)
 
 ### Publications and Working Papers
 
