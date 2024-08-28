@@ -16,6 +16,10 @@ author_profile: true
 
 * Econometric Theory, Financial Econometrics
 
+### Committee
+
+* [Jia Li](https://sites.google.com/view/jiali/home) (Chair), [Peter C. B. Phillips](http://korora.econ.yale.edu/phillips/), [Jun Yu](https://fba.um.edu.mo/faculty/junyu/)
+
 ### Publications and Working Papers
 
 * [See Research](https://yuexuanren.github.io/research/)
