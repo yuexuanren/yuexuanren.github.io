@@ -6,7 +6,7 @@ author_profile: true
 ---
  
 
-Education
+ 
 ======
 * Ph.D in Economics, School of Economics, Singapore Management University, 2020 - present.
 * Master in Statistics, School of Statistics, Renmin Univeristy, 2017 - 2020.
