@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-layout: archive
+layout: single
 permalink: /teaching/
 ---
 
