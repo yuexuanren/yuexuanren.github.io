@@ -1,6 +1,6 @@
 ---
 title: "Research"
-layout: archive
+layout: single
 permalink: /research/
 ---
 
