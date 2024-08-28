@@ -19,20 +19,11 @@ Research Interests
 ======
 * Econometric Theory, Financial Econometrics
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Conference and Seminar Presentations
 ======
 * 2023: SH3 Conference on Econometrics
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ 
   
  
