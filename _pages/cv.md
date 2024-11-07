@@ -4,7 +4,7 @@ title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 ---
- 
+[[PDF](http://yuexuanren.github.io/CV_Yuexuan Ren.pdf)]
 
 ### Education
 
