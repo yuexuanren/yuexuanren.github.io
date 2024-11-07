@@ -21,12 +21,13 @@ repository               : "yuexuanren/yuexuanren.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IDphoto.jpg"
   name             : "Ren, Yuexuan"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Economics, SMU"
   location         : "Singapore"
   email            : "yuexuan.ren.2020@phdecons.smu.edu.sg" 
+
  
 
 # Publication Category - The following the list of publication categories and their headings
