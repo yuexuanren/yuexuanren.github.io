@@ -6,7 +6,7 @@ permalink: /research/
 
 ### Working Paper
 
-1. [**Job Market Paper**] Conformal Prediction fro High-frequency Event Studies [[pdf]](https://yuexuanren.github.io/ConformalPI.pdf) <br>
+1. [**Job Market Paper**] Conformal Prediction for High-frequency Event Studies [[pdf]](https://yuexuanren.github.io/ConformalPI.pdf) <br>
  
 ### Publication
 
