@@ -15,6 +15,6 @@ permalink: /research/
  
 ### Work in Progress
 
-1. Robust Inference for Spot Regressions (with [Tim Bollerslev](https://public.econ.duke.edu/~boller/), [Jia Li](https://sites.google.com/view/jiali/home) and [Ulrich K. M\"{u}ller](https://www.princeton.edu/~umueller/))
+1. Robust Inference for Spot Regressions (with [Tim Bollerslev](https://public.econ.duke.edu/~boller/), [Jia Li](https://sites.google.com/view/jiali/home) and [Ulrich K. Müller](https://www.princeton.edu/~umueller/))
 
-2. A Robust Test of Tracking Performance for Leveraged ETFs (with [Tim Bollerslev](https://public.econ.duke.edu/~boller/), [Jia Li](https://sites.google.com/view/jiali/home) and [Ulrich K. M\"{u}ller](https://www.princeton.edu/~umueller/))
+2. A Robust Test of Tracking Performance for Leveraged ETFs (with [Tim Bollerslev](https://public.econ.duke.edu/~boller/), [Jia Li](https://sites.google.com/view/jiali/home) and [Ulrich K. Müller](https://www.princeton.edu/~umueller/))
