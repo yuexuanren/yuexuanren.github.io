@@ -16,9 +16,9 @@ author_profile: true
 
 * Econometric Theory, Financial Econometrics
 
-### Committee
+<!-- ### Committee
 
-* [Jia Li](https://sites.google.com/view/jiali/home) (Chair), [Peter C. B. Phillips](http://korora.econ.yale.edu/phillips/), [Jun Yu](https://fba.um.edu.mo/faculty/junyu/), [Yichong Zhang](https://sites.google.com/site/yichongzhang86/home)
+* [Jia Li](https://sites.google.com/view/jiali/home) (Chair), [Peter C. B. Phillips](http://korora.econ.yale.edu/phillips/), [Jun Yu](https://fba.um.edu.mo/faculty/junyu/), [Yichong Zhang](https://sites.google.com/site/yichongzhang86/home)-->
 
 ### Publications and Working Papers
 
@@ -27,7 +27,9 @@ author_profile: true
   
 ### Conference and Seminar Presentations
 
-* 2023: SH3 Conference on Econometrics
+* 8th Lindau Nobel Meeting in Economic Sciences, Lindau 2025
+* The 19th International Symposium on Econometric Theory and Applications (SETA), Macau 2025
+* SH3 Conference on Econometrics, Singapore 2023
 
 ### Honors and Scholarships
 
