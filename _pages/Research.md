@@ -18,7 +18,7 @@ permalink: /research/
 
 ### Working Paper
 
-1.  Conformal Prediction for High-frequency Event Studies <!--[[pdf]](https://yuexuanren.github.io/ConformalPI.pdf) <br> -->
+1.  Conformal Prediction for High-frequency Event Studies [[pdf]](https://yuexuanren.github.io/ConformalPI.pdf) <br> 
  
 ### Work in Progress
 
